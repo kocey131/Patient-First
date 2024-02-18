@@ -9,16 +9,16 @@ A simple script to manage users for a hostpital.
 Login: First letter of the first name concatenated with the last name (without hyphenation).
 Password: Randomly generated, hashed for secure storage, with defined validity periods.
 
-#User/Administrator Modification/Deletion
+# User/Administrator Modification/Deletion
 Easily modify or delete users and administrators as needed.
-#User/Administrator Listing
+# User/Administrator Listing
 View a comprehensive list of all users and administrators.
 
-#Search Functionality
+# Search Functionality
 Effortlessly search for specific users or administrators.
 
-#Data Storage
+# Data Storage
 Securely store user and administrator data in a dictionary, CSV file, or database.
 
-#Controlled Authentication
+# Controlled Authentication
 Grant access to various administrators and professional roles (excluding patients) through controlled authentication processes, ensuring robust access control.
