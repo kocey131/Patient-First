@@ -7,8 +7,8 @@ Generate new users based on predefined profiles and permissions.
 
 # Establish rules for login credentials:
 
-## Login: First letter of the first name concatenated with the last name (without hyphenation).
-## Password: Randomly generated, hashed for secure storage, with defined validity periods.
+Login: First letter of the first name concatenated with the last name (without hyphenation).
+Password: Randomly generated, hashed for secure storage, with defined validity periods.
 
 # User/Administrator Modification/Deletion
 Easily modify or delete users and administrators as needed.
